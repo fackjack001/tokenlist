@@ -1,25 +1,61 @@
 {
-  "name": "PancakeSwap Default List",
-  "timestamp": "2022-01-26T11:45:09Z",
+  "name": "DyorSwap TokenList",
+  "timestamp": "2023-06-29T21:24:06.707Z",
   "version": {
-    "major": 4,
+    "major": 0,
     "minor": 0,
-    "patch": 0
+    "patch": 4
   },
-  "tags": {},
-  "logoURI": "https://pancakeswap.finance/logo.png",
-  "keywords": [
-    "pancake",
-    "default"
-  ],
+  "logoURI": "https://dyorswap.finance/favicon.ico",
+  "keywords": [],
   "tokens": [
     {
       "name": "BlastCat",
       "symbol": "BCat",
       "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
       "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://dyorswap.online/tokenlist/imgs/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.png"
+    },
+    {
+      "name": "USDB",
+      "symbol": "USDB",
+      "address": "0x4300000000000000000000000000000000000003",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://blastscan.io/token/images/usdb_32.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4300000000000000000000000000000000000004",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Blast Pepe",
+      "symbol": "BEPE",
+      "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://gray-sporting-hamster-226.mypinata.cloud/ipfs/Qmb1jR4tfvgwk27eZDfdbdNZHNsVk84SZ8Qggx3Z2GeqkN"
+    },              
+    {
+      "name": "Dyor Finance Token",
+      "symbol": "DYOR",
+      "address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
+      "chainId": 81457,
       "decimals": 18
     },
+    {
+      "name": "Finger Blast",
+      "symbol": "FINGER",
+      "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://gray-sporting-hamster-226.mypinata.cloud/ipfs/QmTDVZpKeAiMvHXmYCjLc1JLdvk1q7EFYrm82X7UMjmHpz"
+    },        
     {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
