@@ -65,8 +65,8 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
     },
     {
-      "name": "Icat",
-      "symbol": "Icat",
+      "name": "ICAT",
+      "symbol": "ICAT",
       "address": "0xDf795E582590c2289f47B0B240A94d87c8d9f464",
       "chainId": 2525,
       "decimals": 18,
