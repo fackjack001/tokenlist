@@ -49,13 +49,45 @@
       "decimals": 18
     },
     {
+      "name": "usdc",
+      "symbol": "usdc",
+      "address": "0x8358D8291e3bEDb04804975eEa0fe9fe0fAfB147",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
+    },
+    {
+      "name": "usdt",
+      "symbol": "usdt",
+      "address": "0x97423A68BAe94b5De52d767a17aBCc54c157c0E5",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
+    },
+    {
+      "name": "Icat",
+      "symbol": "Icat",
+      "address": "0xDf795E582590c2289f47B0B240A94d87c8d9f464",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/icat.jpg"
+    }, 
+    {
+      "name": "Winj",
+      "symbol": "Winj",
+      "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/winj.jpg"
+    },
+    {
       "name": "Finger Blast",
       "symbol": "FINGER",
       "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/0x7217124c626f0b7077be91df939195c9a8184ecc.jpg"
-    },        
+    },     
     {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
