@@ -73,6 +73,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/icat.jpg"
     }, 
     {
+      "name": "MCAT",
+      "symbol": "MCAT",
+      "address": "0xAfF10D4251795E585e10DFc920d7DF90954969Ae",
+      "chainId": 4200,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mcat.jpg"
+    },
+    {
       "name": "WINJ",
       "symbol": "WINJ",
       "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
