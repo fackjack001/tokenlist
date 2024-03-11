@@ -65,7 +65,7 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
     },
     {
-      "name": "ICAT",
+      "name": "INJ CAT",
       "symbol": "ICAT",
       "address": "0xDf795E582590c2289f47B0B240A94d87c8d9f464",
       "chainId": 2525,
@@ -73,7 +73,7 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/icat.jpg"
     }, 
     {
-      "name": "MCAT",
+      "name": "Merlin CAT",
       "symbol": "MCAT",
       "address": "0xAfF10D4251795E585e10DFc920d7DF90954969Ae",
       "chainId": 4200,
@@ -81,7 +81,7 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mcat.jpg"
     },
     {
-      "name": "WINJ",
+      "name": ""Wrapped INJ",
       "symbol": "WINJ",
       "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
       "chainId": 2525,
@@ -111,23 +111,9 @@
       "decimals": 6
     },
     {
-      "name": "Wizard",
-      "symbol": "Wizard",
-      "address": "0x2503d56065a1369d7270dc2038c16a113699454d",
-      "chainId": 4200,
-      "decimals": 18
-    },
-    {
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
-      "chainId": 4200,
-      "decimals": 18
-    },
-    {
-      "name": "Jeff",
-      "symbol": "Jeff",
-      "address": "0xB218e56942923DCDCA34fBB4Bad24B5a0DCa35eF",
       "chainId": 4200,
       "decimals": 18
     },
