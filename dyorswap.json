@@ -46,7 +46,8 @@
       "symbol": "DYOR",
       "address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
       "chainId": 81457,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "USDC",
@@ -101,14 +102,16 @@
       "symbol": "DYOR",
       "address": "0x4ba07Cee740f6e7DB8a7f1fE4855d659681D295C",
       "chainId": 7000,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
       "address": "0x9797097320673Ff9c8f54ED4c01A052FF64EB9Cd",
       "chainId": 4200,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "Wrapped BTC",
@@ -213,7 +216,8 @@
       "symbol": "DYOR",
       "address": "0x57dc65d70dC2648c59C26BE715008F0750bC2a38",
       "chainId": 7001,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "ZNSToken",
@@ -248,7 +252,8 @@
       "symbol": "Dyor",
       "address": "0x097de1ADe6D7b46540637935C88B489860D310A2",
       "chainId": 34443,
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "Wrapped BNB",
