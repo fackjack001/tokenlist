@@ -82,6 +82,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mcat.jpg"
     },
     {
+      "name": "MerlinFi",
+      "symbol": "MerlinFi",
+      "address": "0x845663B121f6B7E6BEEEDFE977298D68b21a6E22",
+      "chainId": 4200,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/merlinfi.jpg"
+    },
+    {
       "name": "Wrapped INJ",
       "symbol": "WINJ",
       "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
