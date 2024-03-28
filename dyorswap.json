@@ -98,6 +98,21 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/winj.jpg"
     },
     {
+      "name": "Wrapped BTC",
+      "symbol": "BTC",
+      "address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+      "chainId": 11501,
+      "decimals": 18
+    },
+    {
+      "name": "NALA",
+      "symbol": "NALA",
+      "address": "0xD5F7cf8e4cec0684561b07193363898cEe1EAf17",
+      "chainId": 11501,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/nala.jpg"
+    },
+    {
       "name": "Finger Blast",
       "symbol": "FINGER",
       "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
