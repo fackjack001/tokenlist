@@ -106,6 +106,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/btc.jpg"
     },
     {
+      "name": "Dyor Finance Token",
+      "symbol": "DYOR",
+      "address": "0x1b46ae1b64d90fBf8FFdA903119e5154AC08d797",
+      "chainId": 11501,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
+    },
+    {
       "name": "NALA",
       "symbol": "NALA",
       "address": "0xD5F7cf8e4cec0684561b07193363898cEe1EAf17",
