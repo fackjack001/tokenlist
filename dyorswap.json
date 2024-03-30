@@ -142,7 +142,7 @@
       "symbol": "HEDGEHOG",
       "address": "0x66A5512210C23B1b02bc04cA75E1eD3C8D910cFC",
       "chainId": 666666666,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/hedge.jpg"
     },
     {
