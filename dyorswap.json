@@ -130,6 +130,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyod.jpg"
     },
     {
+      "name": "HOUDINI",
+      "symbol": "HOUDINI",
+      "address": "0xd40f33dd957C9Fc5358507c7837CD3Ff2193ff92",
+      "chainId": 666666666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/houd.jpg"
+    },
+    {
+      "name": "HEDGEHOG",
+      "symbol": "HEDGEHOG",
+      "address": "0x66A5512210C23B1b02bc04cA75E1eD3C8D910cFC",
+      "chainId": 666666666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/hedge.jpg"
+    },
+    {
       "name": "Finger Blast",
       "symbol": "FINGER",
       "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
