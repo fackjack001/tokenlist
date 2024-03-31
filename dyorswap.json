@@ -138,6 +138,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/houd.jpg"
     },
     {
+      "name": "DEPENCAT",
+      "symbol": "DEPENCAT",
+      "address": "0x24eC920e497B5039a4E7427a18EF6EAc6CA16B61",
+      "chainId": 666666666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dcat.jpg"
+    },
+    {
       "name": "HEDGEHOG",
       "symbol": "HEDGEHOG",
       "address": "0x66A5512210C23B1b02bc04cA75E1eD3C8D910cFC",
