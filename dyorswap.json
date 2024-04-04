@@ -154,6 +154,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dcat.jpg"
     },
     {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x8ACeb2687B59F97Da274FE9135C3fAda0751ecb2",
+      "chainId": 666666666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
+    },
+    {
       "name": "Finger Blast",
       "symbol": "FINGER",
       "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
