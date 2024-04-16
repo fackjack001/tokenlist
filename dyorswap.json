@@ -138,6 +138,14 @@
       "logoURI": "https://gateway.pinata.cloud/ipfs/Qmej4StxiPjRimbA39hLb2jbHRiJU1SCSyaHBQsekv6WT9"
     },
     {
+      "name": "BabyOkb",
+      "symbol": "BabyOkb",
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/babyokb.jpg"
+    },
+    {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
       "address": "0x1F06d9Ee2dD6c58C03a1637A951B0dE18d6f5e30",
