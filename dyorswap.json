@@ -130,6 +130,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/sat.jpg"
     },
     {
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmej4StxiPjRimbA39hLb2jbHRiJU1SCSyaHBQsekv6WT9"
+    },
+    {
       "name": "DYOD Token",
       "symbol": "DYOD",
       "address": "0xC27f6030B9d55f719e9B429ca384eE242EB10d6e",
