@@ -100,6 +100,14 @@
     {
       "name": "Wrapped BTC",
       "symbol": "BTC",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 223,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/btc.jpg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "BTC",
       "address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
       "chainId": 11501,
       "decimals": 18,
