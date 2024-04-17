@@ -106,6 +106,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/btc.jpg"
     },
     {
+      "name": "Bitleaf",
+      "symbol": "Bitleaf",
+      "address": "0x0DdbB979970cD6B4ebd25Ff2B84497dC884e120a",
+      "chainId": 223,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bitleaf.jpg"
+    },
+    {
       "name": "Wrapped BTC",
       "symbol": "BTC",
       "address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
