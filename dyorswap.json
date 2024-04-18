@@ -99,7 +99,7 @@
     },
     {
       "name": "Wrapped BTC",
-      "symbol": "BTC",
+      "symbol": "WBTC",
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 223,
       "decimals": 18,
