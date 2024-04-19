@@ -170,6 +170,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/okox.jpg"
     },
     {
+      "name": "OKBMOON",
+      "symbol": "OKBMOON",
+      "address": "0xf15dcc26b32c41d973c92fec4faf254002b732d7",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/okbmoon.jpg"
+    },
+    {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
       "address": "0x1F06d9Ee2dD6c58C03a1637A951B0dE18d6f5e30",
