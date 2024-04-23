@@ -50,6 +50,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 60808,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "GoBob",
+      "symbol": "GoBob",
+      "address": "0x1c091fE40171652F5dE4965CE7cE950CF85A7eeb",
+      "chainId": 60808,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/gobob.jpg"
+    },
+    {
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x8358D8291e3bEDb04804975eEa0fe9fe0fAfB147",
