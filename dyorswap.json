@@ -50,6 +50,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Dyor Finance Token",
+      "symbol": "DYOR",
+      "address": "0x6E7d07ad345685945E9626bA72280D51486bB05F",
+      "chainId": 167000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
+    },
+    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
