@@ -66,6 +66,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/darkfarms.jpg"
     },
     {
+      "name": "WBOME",
+      "symbol": "WBOME",
+      "address": "0x22F0e80797853bef6762A5d72d14Eb755aCBB930",
+      "chainId": 9736,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wbome.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
