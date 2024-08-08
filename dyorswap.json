@@ -58,6 +58,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Darkfarms",
+      "symbol": "Darkfarms",
+      "address": "0xE5545c602Fb3f4BDC7804632B7C6098d0Cfb656D",
+      "chainId": 9736,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/darkfarms.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
