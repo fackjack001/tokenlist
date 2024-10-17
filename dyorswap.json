@@ -50,6 +50,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "WCAT",
+      "symbol": "WCAT",
+      "address": "0xB1BFa980fFFC15c2c5b9dcCFc214EF1E41B4122c",
+      "chainId": 480,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wcat.jpg"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 480,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
       "name": "Dyor Finance Token",
       "symbol": "DYOR",
       "address": "0x6E7d07ad345685945E9626bA72280D51486bB05F",
