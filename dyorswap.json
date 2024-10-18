@@ -58,6 +58,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wcat.jpg"
     },
     {
+      "name": "wldrabbit",
+      "symbol": "Sofamon",
+      "address": "0x046d37E233b96555b9aAD4B802b56D30F4C29Edc",
+      "chainId": 480,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/Sofamon.jpg"
+    },
+    {
+      "name": "Bowser",
+      "symbol": "BOWSER",
+      "address": "0x7047b80cb47527e864029d3CFe1899534DC15402",
+      "chainId": 480,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bowser.jpg"
+    },
+    {
       "name": "Worldcoin",
       "symbol": "WLD",
       "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
