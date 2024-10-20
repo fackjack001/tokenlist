@@ -58,6 +58,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wape.jpg"
     },
     {
+      "name": "Monke",
+      "symbol": "Monke",
+      "address": "0xa646972f6551c1a5A41C5Df15CA20Fa9dca211b4",
+      "chainId": 33139,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/monkey.jpg"
+    },
+    {
       "name": "WCAT",
       "symbol": "WCAT",
       "address": "0xB1BFa980fFFC15c2c5b9dcCFc214EF1E41B4122c",
