@@ -50,6 +50,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "WAPE",
+      "symbol": "WAPE",
+      "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+      "chainId": 33139,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wape.jpg"
+    },
+    {
       "name": "WCAT",
       "symbol": "WCAT",
       "address": "0xB1BFa980fFFC15c2c5b9dcCFc214EF1E41B4122c",
