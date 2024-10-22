@@ -50,6 +50,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Koala",
+      "symbol": "Koala",
+      "address": "0x1dd5b5e59717579A0aDcA76C45dEBEf5Db89F718",
+      "chainId": 2818,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mkola.jpg"
+    },
+    {
       "name": "WAPE",
       "symbol": "WAPE",
       "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
