@@ -74,6 +74,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/monkey.jpg"
     },
     {
+      "name": "SlerfCat",
+      "symbol": "SlerfCat",
+      "address": "0x15573E84972b7DE37a25b5121eFA2D1F6b702238",
+      "chainId": 918,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/SlerfCat.jpg"
+    },
+    {
       "name": "WCAT",
       "symbol": "WCAT",
       "address": "0xB1BFa980fFFC15c2c5b9dcCFc214EF1E41B4122c",
