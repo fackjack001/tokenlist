@@ -138,6 +138,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wbome.jpg"
     },
     {
+      "name": "UniCAT",
+      "symbol": "UCat",
+      "address": "0xc7436169cfC6eBC03E71DD18c50a43321e87B6C8",
+      "chainId": 130,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/unicat.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
