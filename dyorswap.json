@@ -146,6 +146,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/unicat.jpg"
     },
     {
+      "name": "HOGE",
+      "symbol": "HOGE",
+      "address": "0xf8A415B49eCC777456534dC8Dd18d46BB18058fc",
+      "chainId": 130,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/hodoge.jpg"
+    },
+    {
+      "name": "ABE",
+      "symbol": "ABE",
+      "address": "0xd4390B4A41A1057AE0aCdd4B9435a0C7555ab464",
+      "chainId": 130,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/abedoge.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
