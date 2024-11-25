@@ -162,6 +162,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/abedoge.jpg"
     },
     {
+      "name": "UNIPE",
+      "symbol": "UNIPE",
+      "address": "0x768ace3945357f44292aF9E0849AFA1ea2476F13",
+      "chainId": 130,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/unipe.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
