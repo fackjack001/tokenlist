@@ -106,6 +106,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wld.jpg"
     },
     {
+      "name": "ALT",
+      "symbol": "ALT",
+      "address": "0x48B9c16FF3Dd38E40FB92E26A790375426FC5351",
+      "chainId": 480,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/alt.jpg"
+    },
+    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
