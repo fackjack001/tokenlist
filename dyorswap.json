@@ -82,6 +82,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/SlerfCat.jpg"
     },
     {
+      "name": "Srog",
+      "symbol": "Srog",
+      "address": "0x218bAF6499658901942fFf9C1Fba25271F3a3d47",
+      "chainId": 1923,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/srog.jpg"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 1923,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
       "name": "WCAT",
       "symbol": "WCAT",
       "address": "0xB1BFa980fFFC15c2c5b9dcCFc214EF1E41B4122c",
