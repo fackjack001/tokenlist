@@ -58,6 +58,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mkola.jpg"
     },
     {
+      "name": "PCAT",
+      "symbol": "PCAT",
+      "address": "0x5d5c1Bb33f3571674692B2E356aA58f559d6f6e7",
+      "chainId": 3409,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/pepucat.jpg"
+    },
+    {
       "name": "WAPE",
       "symbol": "WAPE",
       "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
