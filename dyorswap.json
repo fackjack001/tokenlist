@@ -74,6 +74,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/kraken.jpg"
     },
     {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 57073,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
       "name": "WAPE",
       "symbol": "WAPE",
       "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
