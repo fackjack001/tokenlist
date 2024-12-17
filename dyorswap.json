@@ -234,8 +234,8 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
-      "name": "WS",
-      "symbol": "Wrapped S",
+      "name": "Wrapped S",
+      "symbol": "WS",
       "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
       "chainId": 146,
       "decimals": 18,
