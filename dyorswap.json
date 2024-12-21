@@ -74,6 +74,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/kraken.jpg"
     },
     {
+      "name": "Worm",
+      "symbol": "Worm",
+      "address": "0x2dC2b752F4C6dFfe2dbcf60b848B8357a8879A01",
+      "chainId": 57073,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/worm.jpg"
+    },
+    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
