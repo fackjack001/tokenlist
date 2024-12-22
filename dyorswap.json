@@ -575,23 +575,9 @@
       "decimals": 18
     },
     {
-      "name": "Dogs duck face",
-      "symbol": "DogDuckFace",
-      "address": "0xB6886ef509E33d6D0BB74e19271d01e3A8f2E66A",
-      "chainId": 34443,
-      "decimals": 18
-    },
-    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
-      "chainId": 34443,
-      "decimals": 6
-    },
-    {
-      "name": "James Ross",
-      "symbol": "JRoss",
-      "address": "0x0512C6419039a067837EA66dFAE92B4e1e2d1A89",
       "chainId": 34443,
       "decimals": 6
     },
@@ -623,21 +609,6 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 34443,
       "decimals": 18
-    },
-    {
-      "name": "Modeinu",
-      "symbol": "MINU",
-      "address": "0x76ba9dbf6EEC1C56C3028891152834e428cdD859",
-      "chainId": 34443,
-      "decimals": 6
-    },
-    {
-      "name": "Dyorswap finance",
-      "symbol": "Dyor",
-      "address": "0x097de1ADe6D7b46540637935C88B489860D310A2",
-      "chainId": 34443,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
       "name": "Wrapped BNB",
