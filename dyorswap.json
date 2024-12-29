@@ -66,6 +66,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/pepucat.jpg"
     },
     {
+      "name": "Toro",
+      "symbol": "Toro",
+      "address": "0x717327a6325E0541A384A1e6c20194Ba54c07A3d",
+      "chainId": 1868,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/toro.jpg"
+    },
+    {
       "name": "Kraken",
       "symbol": "Kraken",
       "address": "0xCa5f2cCBD9C40b32657dF57c716De44237f80F05",
