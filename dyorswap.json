@@ -102,7 +102,7 @@
       "symbol": "USDC.e",
       "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
       "chainId": 57073,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
