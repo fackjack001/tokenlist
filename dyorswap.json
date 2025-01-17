@@ -106,6 +106,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/krakenbb.jpg"
     },
     {
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "chainId": 57073,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdit.jpg"
+    },
+    {
       "name": "Worm",
       "symbol": "Worm",
       "address": "0x2dC2b752F4C6dFfe2dbcf60b848B8357a8879A01",
