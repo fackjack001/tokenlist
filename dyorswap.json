@@ -130,14 +130,6 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
-      "name": "LANDWOLF",
-      "symbol": "LANDWOLF",
-      "address": "0x084C4cafb176536b62D56a2F17eD1213d5B7b140",
-      "chainId": 57073,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/landwolf.jpg"
-    },
-    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
