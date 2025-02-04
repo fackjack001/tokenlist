@@ -250,6 +250,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/unicat.jpg"
     },
     {
+      "name": "Dyor Finance Token",
+      "symbol": "DYOR",
+      "address": "0x34e98d46585fABf1e7D266418c2B3465682173B3",
+      "chainId": 130,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
+    },
+    {
       "name": "ZCAT",
       "symbol": "ZCAT",
       "address": "0xFBEC26AE08f41df4cC22C735e2c7F89fAD427309",
