@@ -58,6 +58,14 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
+      "name": "Bear Token",
+      "symbol": "Bear",
+      "address": "0x77df181B1d3f38fA32f7Ab661Eb71cAA0dAdC620",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bear.jpg"
+    },
+    {
       "name": "Koala",
       "symbol": "Koala",
       "address": "0x1dd5b5e59717579A0aDcA76C45dEBEf5Db89F718",
