@@ -50,6 +50,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
       "name": "Koala",
       "symbol": "Koala",
       "address": "0x1dd5b5e59717579A0aDcA76C45dEBEf5Db89F718",
