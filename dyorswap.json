@@ -332,7 +332,7 @@
     {
       "name": "HPOT",
       "symbol": "HPOT",
-      "address": "0x98018a5B3ced2390607c1E1BE46406F0356b069d",
+      "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/hpot.jpg"
