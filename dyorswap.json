@@ -490,14 +490,6 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/okbmoon.jpg"
     },
     {
-      "name": "Dyor Finance Token",
-      "symbol": "DYOR",
-      "address": "0x1F06d9Ee2dD6c58C03a1637A951B0dE18d6f5e30",
-      "chainId": 196,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
-    },
-    {
       "name": "DYOD Token",
       "symbol": "DYOD",
       "address": "0xC27f6030B9d55f719e9B429ca384eE242EB10d6e",
