@@ -474,6 +474,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/babyokb.jpg"
     },
     {
+      "name": "XDOG",
+      "symbol": "XDOG",
+      "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/okxdog.jpg"
+    },
+    {
       "name": "OKOX",
       "symbol": "OKOX",
       "address": "0x980855ca48b601df572e6877ff908c8bed38bcb5",
