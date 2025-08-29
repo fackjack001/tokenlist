@@ -466,6 +466,38 @@
       "logoURI": "https://gateway.pinata.cloud/ipfs/Qmej4StxiPjRimbA39hLb2jbHRiJU1SCSyaHBQsekv6WT9"
     },
     {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "BTC",
+      "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+      "chainId": 196,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/btc.jpg"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
+    },
+    {
       "name": "BabyOkb",
       "symbol": "BabyOkb",
       "address": "0xB50dC0f75DdF4D30BeF8F2b61b1E59147D15c662",
