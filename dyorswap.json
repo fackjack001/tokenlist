@@ -82,6 +82,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/mkola.jpg"
     },
     {
+      "name": "BGB",
+      "symbol": "BGB",
+      "address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
+      "chainId": 2819,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bgb.png"
+    },
+    {
       "name": "PCAT",
       "symbol": "PCAT",
       "address": "0x5d5c1Bb33f3571674692B2E356aA58f559d6f6e7",
