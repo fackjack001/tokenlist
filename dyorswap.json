@@ -85,7 +85,7 @@
       "name": "BGB",
       "symbol": "BGB",
       "address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
-      "chainId": 2819,
+      "chainId": 2818,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bgb.png"
     },
