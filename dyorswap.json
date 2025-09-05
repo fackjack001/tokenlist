@@ -90,6 +90,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bgb.png"
     },
     {
+      "name": "BDog",
+      "symbol": "BDog",
+      "address": "0x133254d1bb6bf63be73084d5ec7e98a04e261b6f",
+      "chainId": 2818,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bgbdog.jpg"
+    },
+    {
       "name": "PCAT",
       "symbol": "PCAT",
       "address": "0x5d5c1Bb33f3571674692B2E356aA58f559d6f6e7",
