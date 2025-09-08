@@ -522,14 +522,6 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
-      "name": "BabyOkb",
-      "symbol": "BabyOkb",
-      "address": "0xB50dC0f75DdF4D30BeF8F2b61b1E59147D15c662",
-      "chainId": 196,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/babyokb.jpg"
-    },
-    {
       "name": "XDOG",
       "symbol": "XDOG",
       "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
