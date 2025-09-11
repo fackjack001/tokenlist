@@ -226,12 +226,12 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wcat.jpg"
     },
     {
-      "name": "Bowser",
-      "symbol": "BOWSER",
-      "address": "0x7047b80cb47527e864029d3CFe1899534DC15402",
+      "name": "World Dog",
+      "symbol": "WDog",
+      "address": "0x63318D2aEDA9610dA7439Aa7538cdB6b75DacF98",
       "chainId": 480,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/bowser.jpg"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/worlddog.jpg"
     },
     {
       "name": "Worldcoin",
@@ -240,14 +240,6 @@
       "chainId": 480,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wld.jpg"
-    },
-    {
-      "name": "ALT",
-      "symbol": "ALT",
-      "address": "0x48B9c16FF3Dd38E40FB92E26A790375426FC5351",
-      "chainId": 480,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/alt.jpg"
     },
     {
       "name": "Wrapped ETH",
