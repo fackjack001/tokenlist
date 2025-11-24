@@ -50,6 +50,22 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/wmon.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+      "chainId": 143,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
+    },
+    {
       "name": "Wrapped HYPER",
       "symbol": "WHYPER",
       "address": "0x5555555555555555555555555555555555555555",
