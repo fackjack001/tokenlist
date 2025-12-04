@@ -90,6 +90,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
     },
     {
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "chainId": 988,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
+    },
+    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
