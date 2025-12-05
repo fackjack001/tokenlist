@@ -98,6 +98,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
     },
     {
+      "name": "WWrapped gUSDT",
+      "symbol": "WgUSDT",
+      "address": "0x817997Ca8394E26CCE3dE3A076a4889b27DbF9dE",
+      "chainId": 988,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt.jpg"
+    },
+    {
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
