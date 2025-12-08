@@ -98,6 +98,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
     },
     {
+      "name": "Stable",
+      "symbol": "Stable",
+      "address": "0000000000000000000000000000000000001003",
+      "chainId": 988,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/stable.jpg"
+    },
+    {
       "name": "WWrapped gUSDT",
       "symbol": "WgUSDT",
       "address": "0x817997Ca8394E26CCE3dE3A076a4889b27DbF9dE",
