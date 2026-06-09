@@ -54,7 +54,7 @@
       "symbol": "WUSDC",
       "address": "0x3600000000000000000000000000000000000000",
       "chainId": 5042,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
