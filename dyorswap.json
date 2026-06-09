@@ -50,11 +50,11 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/dyor.jpg"
     },
     {
-      "name": "Wrapped USDC",
-      "symbol": "WUSDC",
+      "name": "USDC",
+      "symbol": "USDC",
       "address": "0x3600000000000000000000000000000000000000",
       "chainId": 5042,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdc.jpg"
     },
     {
