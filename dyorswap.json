@@ -98,14 +98,6 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
     },
     {
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
-      "chainId": 988,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/usdt0.jpg"
-    },
-    {
       "name": "Stable",
       "symbol": "Stable",
       "address": "0000000000000000000000000000000000001003",
