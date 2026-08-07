@@ -170,6 +170,14 @@
       "logoURI": "https://raw.githubusercontent.com/fackjack001/tokenlist/main/logo/pepucat.jpg"
     },
     {
+      "name": "Camera",
+      "symbol": "CMR",
+      "address": "0x98760B5d829c5B55cB6eB0D79E9FC75673F578e3",
+      "chainId": 1868,
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreihq54lo4hltjs4ospfjni536ed6dahk5v7s6p5bc5yhko5xusr2du"
+    },
+    {
       "name": "Toro",
       "symbol": "Toro",
       "address": "0x717327a6325E0541A384A1e6c20194Ba54c07A3d",
